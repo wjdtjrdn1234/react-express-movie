@@ -10,7 +10,7 @@
 
 
 
-사이트 배포 : https://mmymovie.herokuapp.com/movie/512195
+사이트 배포 : https://mmymovie.herokuapp.com
 <br>
 
 # 메인 페이지
