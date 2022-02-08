@@ -1,64 +1,72 @@
-
-
 사이트 배포 : https://mmymovie.herokuapp.com
-<br>
-<br>
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-# 메인 페이지
-![1](https://user-images.githubusercontent.com/54196723/139525664-d9f01b0e-1304-48f8-80bf-0b6971ba4194.png)
+In the project directory, you can run:
 
-<br>
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information. 
+ 
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ---------------------------------------
-
-<br>
-
-# 메인 페이지2(SCROLL)
-
-![2](https://user-images.githubusercontent.com/54196723/139525706-63c5eb25-304c-4f88-ae96-85b708c655e4.png)
-
-<br>
-
-
----------------------------------------
-
-<br>
-
-# 영화 상세 페이지
-![3](https://user-images.githubusercontent.com/54196723/139525759-9143cfd3-379a-46ec-92ad-1ed839452d5c.png)
-
-<br>
-
-
----------------------------------------
-
-<br>
-
-# 영화 상세 페이지2(영화정보 , 리뷰 댓글창)
-![4](https://user-images.githubusercontent.com/54196723/139525761-461f11b1-c90e-4444-ac9f-f2d92ee9b46e.png)
-
-<br>
-
-
----------------------------------------
-
-<br>
-
-# 영화 상세 페이지3(출연진)
-
-
-![5](https://user-images.githubusercontent.com/54196723/139525783-b73070d1-bde4-4f6b-a016-f13ed52e3c9e.png)
-
-<br>
-
-
----------------------------------------
-
-<br>
-
-# 영화 구독 페이지(로그인만 접속가능)
-
-![6](https://user-images.githubusercontent.com/54196723/139525786-10323320-98d9-48e1-ab8d-f690a21be349.png)
