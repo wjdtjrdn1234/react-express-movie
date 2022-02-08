@@ -1,4 +1,4 @@
-사이트 배포 : https://mmymovie.herokuapp.com
+https://mmymovie.herokuapp.com
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
